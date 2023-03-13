@@ -23,7 +23,7 @@ What are the reasons you'd want to use XPath to find your elements with Appium?
 Dangers of XPath |
 ---- |
 XPath selectors can be brittle. |
-//android.widget.Layout/android.widget.Layout[3]/android.widget.Layout/android.widget.TextView[2] |
+<code>//android.widget.Layout/android.widget.Layout[3]/android.widget.Layout/android.widget.TextView[2]</code> |
 XPath can be slow. |
 
 Unfortunately, XPath does not come without certain costs. 
